@@ -34,9 +34,6 @@ Key insights from the analysis:
 - **Word Clouds:** Generated visualizations for each sentiment category, highlighting the most frequently used words.  
 - **Bar Charts:** Displayed common words in each category to identify themes.  
 - **Origin Countries:** Most tweets originated from `Unknown`, `England`, `United States`, and `India`.  
-- **Popular Hashtags and Mentions:**  
-  - Hashtags: `#coronavirus`, `#covid_19`, `#Coronavirus`, `#COVID2019`, `#COVID19`.  
-  - Mentions: `@realdonaldtrump`, `@youtube`, `@borisjohnson`, `@tesco`, `@amazon`.  
 
 ---
 
