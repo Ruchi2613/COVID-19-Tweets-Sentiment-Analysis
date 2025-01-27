@@ -8,10 +8,10 @@ The COVID-19 pandemic has had a profound global impact, and social media has eme
 #### Dataset  
 The tweets were sourced from Twitter and manually tagged to ensure accuracy. To maintain privacy, names and usernames were anonymized. The dataset can be accessed [here](https://www.kaggle.com/datasets/datatattle/covid-19-nlp-text-classification).  
 **Columns:**  
-1. **Location** 🌍  
-2. **Tweet At** 📅  
-3. **Original Tweet** 🐦  
-4. **Label** 💬  
+1. **Location** 
+2. **Tweet At** 
+3. **Original Tweet**
+4. **Label** 
 
 ---
 
